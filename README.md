@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do matheusrian-dev 😁
+## Bem-vindo(a)! 😄
 
  <div>
    <a href="https://github.com/matheusrian-dev">
