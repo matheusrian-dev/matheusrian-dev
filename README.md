@@ -1,16 +1,9 @@
 ## Bem-vindo(a)! 😄
 
- <div>
-   <a href="https://github.com/matheusrian-dev#gh-dark-mode-only">
-   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=matheusrian-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=matheusrian-dev&layout=compact&langs_count=6&theme=tokyonight"/>
-   </a>
- 
-   <a href="https://github.com/matheusrian-dev#gh-light-mode-only">
-   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=matheusrian-dev&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=matheusrian-dev&layout=compact&langs_count=6&theme=default"/>
-   </a>
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusrian-dev&show_icons=true&theme=transparent)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusrian-dev&layout=compact&theme=transparent&show_icons=true)](https://github.com/matheusrian-dev/github-readme-stats)
+
 <div style="display: inline_block"><br>
   <img align="center" alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   <img align="center" alt="VS Studio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
