@@ -1,8 +1,8 @@
 ## Bem-vindo(a)! 😄
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusrian-dev&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://my-repository-theta-ten.vercel.app/api?username=matheusrian-dev&show_icons=true&theme=transparent)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusrian-dev&layout=compact&theme=transparent&show_icons=true)](https://github.com/matheusrian-dev/github-readme-stats)
+[![Top Langs](https://my-repository-theta-ten.vercel.app/api/top-langs/?username=matheusrian-dev&layout=compact&theme=transparent&show_icons=true)](https://github.com/matheusrian-dev/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
