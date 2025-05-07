@@ -11,7 +11,6 @@
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 - Git & GitHub
 - Testes com `pytest`
-- Tkinter para interfaces gráficas
 - Projeto em terminal com `input/output`, `dicionários` e `arquivos`
   
 ---
