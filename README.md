@@ -6,6 +6,13 @@
 
 ---
 
+## 👨‍💻 Sobre mim
+
+Meu nome é Matheus Rian de Souza, profissional de TI em transição para a área de desenvolvimento com foco em Python. Apaixonado por tecnologia e sempre em busca de novos desafios. Tenho experiência com suporte técnico e manutenção de sistemas em órgãos
+públicos. Entusiasta de boas práticas de programação e desenvolvimento de software em processo de transição definitiva para a área de desenvolvimento de software.
+
+---
+
 ## 🧰 Tecnologias e Ferramentas que estou aprendendo
 
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
