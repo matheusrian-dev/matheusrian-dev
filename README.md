@@ -8,7 +8,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Meu nome é Matheus Rian de Souza, profissional de TI em transição para a área de desenvolvimento com foco em Python. Sou apaixonado por tecnologia e estou sempre em busca de novos desafios. Tenho experiência com suporte técnico e manutenção de sistemas em órgãos públicos, e atualmente me especializo em boas práticas de programação, com foco na migração definitiva para o desenvolvimento de software.
+Profissional de TI com experiência em suporte técnico, atendimento ao usuário e resolução de incidentes em ambientes corporativos. Vivência com sistemas operacionais Windows, redes básicas e troubleshooting. Pós-graduado em Desenvolvimento Full Stack, com foco em Python, lógica de programação e boas práticas de código, buscando oportunidade como Analista de Suporte com possibilidade de crescimento técnico.
 
 ---
 
